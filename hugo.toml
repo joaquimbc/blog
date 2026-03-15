@@ -1,8 +1,8 @@
-baseURL = 'https://blog-4yq.pages.dev/'
+baseURL = 'https://joaquim.tech/'
 languageCode = 'en-us'
 title = 'My New Hugo Project'
 theme = 'reterminal'
 
 [params.author]
   name = "Joaquim Bandeira"
-  email = "your@email.com"
+  email = "me@joaquim.tech"
